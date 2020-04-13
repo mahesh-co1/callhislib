@@ -1,10 +1,10 @@
 {
-  "name": "callhistorylib",
+  "name": "call-history-lib",
   "version": "1.0.0",
   "description": "",
-  "author": "Maheshss1",
+  "author": "mahesh-co1",
   "license": "MIT",
-  "repository": "Maheshss1/calllib",
+  "repository": "mahesh-co1/call-history-lib",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
